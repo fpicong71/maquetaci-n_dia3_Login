@@ -124,7 +124,7 @@ article.bloq_app{
     font-size:0.71rem;
 }
 
-.loginForm input[type="button"]{
+.loginForm button{
     display: block;
     width: 100%;
     background-color: deepskyblue;
